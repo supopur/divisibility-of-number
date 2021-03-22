@@ -3,4 +3,4 @@ Find out what the number is divisible by.
 I recommend using it with small numbers.
 And if you use bigger numbers it should work too :)
 I'm from the Czech republic so sorry for the bad English.
-It work's with python3 on linux it shall work on windows but i didn't test that.
+It works with python3 on Linux it should work on windows but I didn't test that.
