@@ -1,0 +1,1 @@
+python deviders_of_number.py
